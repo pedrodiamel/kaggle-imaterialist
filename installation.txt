@@ -1,0 +1,7 @@
+
+
+matplotlib
+opencv-python
+scikit-image
+graphviz
+dlib==19.5.0
